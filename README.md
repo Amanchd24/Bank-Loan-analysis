@@ -2,12 +2,12 @@
 Bank loan data analysis by using SQL server and Power BI dashboard.
 This dashboard was designed to streamline data-driven decision-making in the banking sector by providing deep insights into loan performance and trends.
 
-📊 ## Dashboard Highlights:
+## Dashboard Highlights:
 Comprehensive view of Total Loan Applications, classified into Good vs. Bad Loans for easy performance tracking.
 
 Metrics on Funded Amounts, Received Amounts, and Average Interest Rates, with the ability to drill down by Loan Purpose, Home Ownership, and Loan Grades.
 
-🔧 Advanced Features & Techniques:
+## Advanced Features & Techniques:
 SQL Integration: Established a direct data connection to SQL Server, optimizing data handling and improving performance. The loan data was uploaded to SQL for efficient querying and real-time updates in Power BI, enabling faster data retrieval and smoother dashboard functionality.
 
 New Measures: Used DAX to create custom calculations, including Month-over-Month (MoM) growth, Total Loan Amounts, and other key financial KPIs.
